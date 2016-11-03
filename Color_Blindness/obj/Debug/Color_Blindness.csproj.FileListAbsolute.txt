@@ -1,0 +1,212 @@
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\App.g.i.cs
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\App.g.cs
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\MainPage.g.i.cs
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\MainPage.g.cs
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\XamlTypeInfo.g.cs
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\App.xaml
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\App.xbf
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\XamlSaveStateFile.xml
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\bin\Debug\App.xbf
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\bin\Debug\MainPage.xbf
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\bin\Debug\Test_Page.xbf
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\bin\Debug\Color_Blindness.xr.xml
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\bin\Debug\Color_Blindness.exe
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\bin\Debug\Color_Blindness.pdb
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\bin\Debug\resources.pri
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\bin\Debug\AppxManifest.xml
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\bin\Debug\Color_Blindness.build.appxrecipe
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\Test_Page.g.i.cs
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\Test_Page.g.cs
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\MainPage.xaml
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\Test_Page.xaml
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\MainPage.xbf
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\Test_Page.xbf
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\Color_Blindness.exe
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\Color_Blindness.pdb
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\priconfig.xml
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\priconfig.xml.intermediate
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\layout.resfiles
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\layout.resfiles.intermediate
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\resources.resfiles
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\resources.resfiles.intermediate
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\pri.resfiles
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\pri.resfiles.intermediate
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\qualifiers.txt
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\qualifiers.txt.intermediate
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\sharmak\documents\visual studio 2013\Projects\Color_Blindness\Color_Blindness\obj\Debug\ProjectArchitectures.txt
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\bin\Debug\App.xbf
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\bin\Debug\MainPage.xbf
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\bin\Debug\Test_Page.xbf
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\bin\Debug\Color_Blindness.xr.xml
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\bin\Debug\Color_Blindness.exe
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\bin\Debug\Color_Blindness.pdb
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\bin\Debug\resources.pri
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\bin\Debug\AppxManifest.xml
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\bin\Debug\Color_Blindness.build.appxrecipe
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\bin\Debug\WriteableBitmapEx.WinRT.dll
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\bin\Debug\WriteableBitmapEx.WinRT.pdb
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\bin\Debug\WriteableBitmapEx.WinRT.xml
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\Color_Blindness.csprojResolveAssemblyReference.cache
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\App.g.i.cs
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\App.g.cs
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\MainPage.g.i.cs
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\MainPage.g.cs
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\Test_Page.g.i.cs
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\Test_Page.g.cs
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\App.xaml
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\MainPage.xaml
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\Test_Page.xaml
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\App.xbf
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\MainPage.xbf
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\Test_Page.xbf
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\XamlSaveStateFile.xml
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\Color_Blindness.exe
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\Color_Blindness.pdb
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\Color_Blindness.csproj.GenerateResource.Cache
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\priconfig.xml
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\priconfig.xml.intermediate
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\layout.resfiles
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\layout.resfiles.intermediate
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\resources.resfiles
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\resources.resfiles.intermediate
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\pri.resfiles
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\pri.resfiles.intermediate
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\qualifiers.txt
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\qualifiers.txt.intermediate
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\ProjectArchitectures.txt
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\bin\Debug\BlankPage1.xbf
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\BlankPage1.g.i.cs
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\BlankPage1.g.cs
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\BlankPage1.xaml
+C:\Users\spnedu\Documents\Visual Studio 2015\Projects\Color_Blindness\Color_Blindness\obj\Debug\BlankPage1.xbf
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\bin\Debug\App.xbf
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\bin\Debug\BlankPage1.xbf
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\bin\Debug\MainPage.xbf
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\bin\Debug\Test_Page.xbf
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\bin\Debug\Color_Blindness.xr.xml
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\bin\Debug\Color_Blindness.exe
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\bin\Debug\Color_Blindness.pdb
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\bin\Debug\resources.pri
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\bin\Debug\AppxManifest.xml
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\bin\Debug\Color_Blindness.build.appxrecipe
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\bin\Debug\WriteableBitmapEx.WinRT.dll
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\bin\Debug\WriteableBitmapEx.WinRT.pdb
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\bin\Debug\WriteableBitmapEx.WinRT.xml
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\Color_Blindness.csprojResolveAssemblyReference.cache
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\App.g.i.cs
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\App.g.cs
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\BlankPage1.g.i.cs
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\BlankPage1.g.cs
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\MainPage.g.i.cs
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\MainPage.g.cs
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\Test_Page.g.i.cs
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\Test_Page.g.cs
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\App.xaml
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\BlankPage1.xaml
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\MainPage.xaml
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\Test_Page.xaml
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\App.xbf
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\BlankPage1.xbf
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\MainPage.xbf
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\Test_Page.xbf
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\XamlSaveStateFile.xml
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\Color_Blindness.exe
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\Color_Blindness.pdb
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\Color_Blindness.csproj.GenerateResource.Cache
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\priconfig.xml
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\priconfig.xml.intermediate
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\layout.resfiles
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\layout.resfiles.intermediate
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\resources.resfiles
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\resources.resfiles.intermediate
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\pri.resfiles
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\pri.resfiles.intermediate
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\qualifiers.txt
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\qualifiers.txt.intermediate
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\ProjectArchitectures.txt
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\bin\Debug\Color_Blindness.exe.config
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\bin\Debug\Newtonsoft.Json.xml
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\System.Net.Http.Formatting.pri
+C:\Users\anmehl\Desktop\codefinal\Color_Blindness\Color_Blindness\obj\Debug\System.Net.Http.Formatting\qualifiers.txt
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\bin\Debug\Color_Blindness.exe.config
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\bin\Debug\App.xbf
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\bin\Debug\EditImage.xbf
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\bin\Debug\MainPage.xbf
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\bin\Debug\Test_Page.xbf
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\bin\Debug\Color_Blindness.xr.xml
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\bin\Debug\Color_Blindness.exe
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\bin\Debug\Color_Blindness.pdb
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\bin\Debug\resources.pri
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\bin\Debug\AppxManifest.xml
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\bin\Debug\Color_Blindness.build.appxrecipe
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\bin\Debug\WriteableBitmapEx.WinRT.dll
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\bin\Debug\WriteableBitmapEx.WinRT.pdb
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\bin\Debug\WriteableBitmapEx.WinRT.xml
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\Color_Blindness.csprojResolveAssemblyReference.cache
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\App.g.i.cs
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\App.g.cs
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\EditImage.g.i.cs
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\EditImage.g.cs
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\MainPage.g.i.cs
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\MainPage.g.cs
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\Test_Page.g.i.cs
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\Test_Page.g.cs
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\App.xaml
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\App.xbf
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\XamlSaveStateFile.xml
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\EditImage.xaml
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\MainPage.xaml
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\Test_Page.xaml
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\EditImage.xbf
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\MainPage.xbf
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\Test_Page.xbf
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\Color_Blindness.exe
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\Color_Blindness.pdb
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\Color_Blindness.csproj.GenerateResource.Cache
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\System.Net.Http.Formatting\layout.resfiles
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\System.Net.Http.Formatting\layout.resfiles.intermediate
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\System.Net.Http.Formatting\Resources.resfiles
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\System.Net.Http.Formatting\Resources.resfiles.intermediate
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\System.Net.Http.Formatting\pri.resfiles
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\System.Net.Http.Formatting\pri.resfiles.intermediate
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\System.Net.Http.Formatting\priconfig.xml
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\System.Net.Http.Formatting\priconfig.xml.intermediate
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\System.Net.Http.Formatting.pri
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\System.Net.Http.Formatting\qualifiers.txt
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\priconfig.xml
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\priconfig.xml.intermediate
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\layout.resfiles
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\layout.resfiles.intermediate
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\resources.resfiles
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\resources.resfiles.intermediate
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\pri.resfiles
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\pri.resfiles.intermediate
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\qualifiers.txt
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\qualifiers.txt.intermediate
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\kopri\Documents\Visual Studio 2013\Projects\codefinal\Color_Blindness\Color_Blindness\obj\Debug\ProjectArchitectures.txt

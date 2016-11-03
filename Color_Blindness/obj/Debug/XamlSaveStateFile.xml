@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\kopri\documents\visual studio 2013\projects\codefinal_1\color_blindness\color_blindness\obj\debug\intermediatexaml\color_blindness.exe" HashGuid="6d5bc3d5-08b6-b36e-26b6-66451427a14b" />
+    <ReferenceAssembly PathName="c:\users\kopri\desktop\leap 2015\finalcode\color_blindness\packages\newtonsoft.json.7.0.1\lib\portable-net40+sl5+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="0b4cdfc1-2257-2e75-23cf-4052e97b309e" />
+    <ReferenceAssembly PathName="c:\users\kopri\desktop\leap 2015\finalcode\color_blindness\packages\microsoft.net.http.2.2.22\lib\wpa81\system.net.http.extensions.dll" HashGuid="1d9d21be-6daa-468f-1b93-4e738d786e1b" />
+    <ReferenceAssembly PathName="c:\users\kopri\desktop\leap 2015\finalcode\color_blindness\packages\microsoft.aspnet.webapi.client.5.2.3\lib\portable-wp8+netcore45+net45+wp81+wpa81\system.net.http.formatting.dll" HashGuid="2be584ba-1a95-71f0-a34d-ef121720ead4" />
+    <ReferenceAssembly PathName="c:\users\kopri\desktop\leap 2015\finalcode\color_blindness\packages\microsoft.net.http.2.2.22\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="c:\users\kopri\desktop\leap 2015\finalcode\color_blindness\packages\writeablebitmapex.1.5.0.0\lib\wpa81\writeablebitmapex.winrt.dll" HashGuid="6dd9ab30-a8ea-e714-1c9c-a07c544a2da6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

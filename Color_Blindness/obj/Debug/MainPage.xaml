@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="Color_It.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Color_It"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid x:Name="NameGrid" HorizontalAlignment="Left" Height="132" VerticalAlignment="Top" Width="400">
+            <Grid.Background>
+                <ImageBrush ImageSource="Assets/main_image.jpg" Stretch="UniformToFill"/>
+            </Grid.Background>
+            <TextBlock x:Name="AppNameTextbox" HorizontalAlignment="Left" Margin="120,41,0,38" TextWrapping="Wrap" Text="Color It" VerticalAlignment="Center" Height="53" Width="151" Foreground="White" FontWeight="SemiBold" FontSize="40" FontFamily="Microsoft Sans Serif" />
+        </Grid>
+
+        <Grid x:Name="Content" HorizontalAlignment="Left" Height="508" Margin="0,132,0,0" VerticalAlignment="Top" Width="399" Background="Black">
+            <TextBlock x:Name="Desc" FontSize="24" Foreground="White" Margin="16,44,11,303" FontFamily="Microsoft Sans Serif" TextWrapping="Wrap" />
+            <Button x:ConnectionId='1' x:Name="TakeTestButton" Content="Test" FontFamily="Microsoft Sans Serif" HorizontalAlignment="Left" Margin="65,235,0,0" VerticalAlignment="Top" FontSize="26" FontWeight="Normal" Foreground="#FFFDFDFD" Width="261"                          BorderThickness="0" Background="#F57F10" Height="76" />
+            <Button x:ConnectionId='2' x:Name="EditImageButton" Content="Adjust an image" FontFamily="Microsoft Sans Serif" HorizontalAlignment="Left" Margin="65,341,0,0" VerticalAlignment="Top" FontSize="26" FontWeight="Normal" Foreground="#FFFDFDFD" Width="261"                          BorderThickness="0" Background="#F57F10" Height="76" Visibility="Collapsed"/>
+        </Grid>
+    </Grid>
+</Page>
+
